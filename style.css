@@ -1,0 +1,11 @@
+@media screen and (max-width: 350px){
+    .btn-sm{
+        margin-top: .25rem;
+    }
+}
+
+@media screen and (max-width: 568px){
+    .btn-sm{
+        margin-top: .25rem;
+    }
+}
